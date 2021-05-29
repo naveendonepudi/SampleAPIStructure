@@ -1,0 +1,12 @@
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\bin\Debug\net5.0\SolutionName.SharedHelper.deps.json
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\bin\Debug\net5.0\SolutionName.SharedHelper.dll
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\bin\Debug\net5.0\ref\SolutionName.SharedHelper.dll
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\bin\Debug\net5.0\SolutionName.SharedHelper.pdb
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\obj\Debug\net5.0\SolutionName.SharedHelper.csproj.AssemblyReference.cache
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\obj\Debug\net5.0\SolutionName.SharedHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\obj\Debug\net5.0\SolutionName.SharedHelper.AssemblyInfoInputs.cache
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\obj\Debug\net5.0\SolutionName.SharedHelper.AssemblyInfo.cs
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\obj\Debug\net5.0\SolutionName.SharedHelper.csproj.CoreCompileInputs.cache
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\obj\Debug\net5.0\SolutionName.SharedHelper.dll
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\obj\Debug\net5.0\ref\SolutionName.SharedHelper.dll
+C:\Users\naveen.donepudi\source\repos\SolutionName.SharedHelper\obj\Debug\net5.0\SolutionName.SharedHelper.pdb

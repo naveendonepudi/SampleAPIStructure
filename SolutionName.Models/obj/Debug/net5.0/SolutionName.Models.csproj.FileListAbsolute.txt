@@ -1,0 +1,12 @@
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\bin\Debug\net5.0\SolutionName.Models.deps.json
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\bin\Debug\net5.0\SolutionName.Models.dll
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\bin\Debug\net5.0\ref\SolutionName.Models.dll
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\bin\Debug\net5.0\SolutionName.Models.pdb
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\obj\Debug\net5.0\SolutionName.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\obj\Debug\net5.0\SolutionName.Models.AssemblyInfoInputs.cache
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\obj\Debug\net5.0\SolutionName.Models.AssemblyInfo.cs
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\obj\Debug\net5.0\SolutionName.Models.csproj.CoreCompileInputs.cache
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\obj\Debug\net5.0\SolutionName.Models.dll
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\obj\Debug\net5.0\ref\SolutionName.Models.dll
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\obj\Debug\net5.0\SolutionName.Models.pdb
+C:\Users\naveen.donepudi\source\repos\SolutionName.Models\obj\Debug\net5.0\SolutionName.Models.csproj.AssemblyReference.cache
